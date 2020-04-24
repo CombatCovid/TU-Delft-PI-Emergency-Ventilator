@@ -18,7 +18,7 @@ On the initiative of Dr. Gerwin Smit, a team of researchers and students, develo
 
 At the present time, we are working on different segments of the project, which we will be updated and released via this GitHub repository:
 
--	Hardware functional design (first version released on 24-04-2020)
+-	Hardware functional design (version 1.0 released on 24-04-2020)
 -	Electronics functional design 
 -	Software functional design
 -	Testing results
