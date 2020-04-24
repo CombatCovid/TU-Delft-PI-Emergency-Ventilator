@@ -1,0 +1,8 @@
+# N.b. Please don't remove this file or items, and do be sure to
+# include a copy of it in your project.
+#
+# It hides editor configurations from being added to the repo
+# Other folders or files should be added if you use another editor
+# which leaves behind such files -- talk to Git-knowledgeable folk
+# to do this, thanks...
+.idea/

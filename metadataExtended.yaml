@@ -1,0 +1,93 @@
+# USE THIS METADATA FILE TO MAKE A MORE EXTENSIVE DESCRIPTION OF YOUR PROJECT
+
+# This metadata spec used for combatcovid app is a derivative work of the Open Know-How Manifest Specification Version 1.0
+# The content of this manifest file is licensed under a Creative Commons Attribution 4.0 International License. 
+# Licenses for modification and distribution of the hardware, documentation, source-code, etc are stated separately.
+
+# Remove any fields that are not used. Comments (beginning with '#') may also be removed.
+
+#  Metadata
+metadata_language: language-code-region 
+
+documentation_language: language-code-region
+
+metadata_is_translation:  
+  title: value                            # text | Title of the original
+  manifest: value                         # URL - Absolute path | OKH manifest location
+  web: value                              # URL - Absolute path | web presence location
+  lang: language-region                   # language of original
+
+# License and attributions
+license:                                   # At least one license is required | The format should be an SPDX identifier. See https://spdx.org/licenses/hardware: value # recommended | The license under which the hardware is released
+  hardware: value                        # recommended | The license under which the documentation is released
+  documentation: value                   # recommended | The license under which the documentation is released
+  software: value                        # recommended where software is used | The license under which the software is released
+
+
+# Description
+title: value                             # required | text | A title to identify the thing
+description: |                             # required | paragraph
+      value
+intended-use: |                            # recommended | Paragraph
+      value
+
+keywords:                                  # At least one keyword is recommended | text array 
+  - keyword 1
+  - keyword 2
+
+features:
+  - Feature 1
+  - Feature 2
+    
+design_status: value                      # text
+
+
+image: value                             # recommended | absolute or relative path
+version: value                           # text
+made: true                               # boolean - true or false
+
+
+# Organizational and collaboration related data
+organization_link: value
+project_link: value                      # At least project-link or documentation-home is required, otherwise recommended | absolute path URL
+repository_link: 
+
+contact:
+  name: value                            # text
+  affiliation: value                     # text
+  email: value                           # email address
+  social:
+    - platform: value                    # text
+      user_handle: value                 # text
+
+contributors:                              # recommended
+  - name: contributor 1                  # text
+    affiliation: value                   # text
+    email: value
+    link: url                         # email address
+
+attribution:
+  - name:
+    link:
+
+# References to replicate the design
+standards_used:
+  - standard_title: value                # Required where used | Title of the standard used in developing the design or documentation
+    publisher: value                     # Publisher of the standard
+    reference: value                     # Reference indentifier of the standard (e.g. ISO 9001)
+    certification:                         # If certification has been granted confirming compliance with the standard
+      - certifier: value                 # Individual or organisation granting the certification. Use "Self" for self-certification
+        date-awarded: value              # Date certification was granted
+        link: value                      # Link to evidence of certification (e.g. certificate). Use an an absolute path to an external resource or an absolute or relative path to evidence within the documentation.
+
+references:
+ - name: String
+   
+parts:
+  - name: String
+    quantity: 1
+    reference: link
+
+# Documentation
+bom: value                              # recommended | absolute or relative path | Direct the maker to the Bill of Materials
+
