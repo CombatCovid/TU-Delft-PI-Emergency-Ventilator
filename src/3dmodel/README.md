@@ -4,7 +4,7 @@ Fileformats:
 .STEP
 
 Pack & Go:
-The PackAndGo .zip folder contains the all the SOLIDWORKS files including Assemblies, parts and drawings
+The PackAndGo .zip folder contains the SOLIDWORKS files including Assemblies, parts and drawings
 
 Fileformats:
 .SLDPRT
