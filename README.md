@@ -1,5 +1,7 @@
 # Project Inspiration Emergency Mechanical Ventilator
 
+![](summary.jpg)
+
 ## References
 
 More information and contact details can be found on https://projectinspiration.nl
@@ -18,13 +20,13 @@ On the initiative of Dr. Gerwin Smit, a team of researchers and students develop
 
 At the present time, we are working on different segments of the project, which we will be updated and released via this GitHub repository:
 
--	Hardware functional design (version 1.0 released on 24-04-2020)
+-	Hardware functional design (version 1.2 released)
 -	Electronics functional design 
 -	Software functional design
 -	Testing results
 -	Compliance with medical Standards (and emergency certification)
 
 ## DISCLAIMER
-The design is at this time, 24th of April 2020, not certified by any official body for medical use. The design should not be used without proper validation and certification by local authorities.
+The design is at this time, 18th of May 2020, not certified by any official body for medical use. The design should not be used without proper validation and certification by local authorities.
 
 The design has been partly created with use of a SOLIDWORKS Education Edition. 
