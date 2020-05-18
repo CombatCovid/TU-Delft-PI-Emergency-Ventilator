@@ -1,5 +1,6 @@
 # Project Inspiration Emergency Mechanical Ventilator
 
+![](summary.jpg)
 ## References
 
 More information and contact details can be found on https://projectinspiration.nl
