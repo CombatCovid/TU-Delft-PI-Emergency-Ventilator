@@ -2,6 +2,7 @@
 # Comments are expressed with a # preceding the line of text
 # Be as explicit and contextual as possible
 title: Project Inspiration Mechanical Emergency Ventilator
+finderPriority: 200
 
 # Name of the actual github repository
 name: TU-Delft-PI-Emergency-Ventilator
@@ -16,7 +17,7 @@ languages:
   EN:
     description: Project Inspiration is an initiative of the Delft University of Technology in the Netherlands. The aim of the project is to develop a low-cost, easy to manufacture and manageable mechanical ventilator that can be rapidly distributed across the world.
     # Example of description: A low cost ventilator based on off the shelves components available in the Netherlands
-    
+
     # Replace the keywords here to whatever is relevant to your context
     # If you are using a mask then some will probably change
     keywords: [patient,recovery,critical care,intensive care,icu,equipment,
