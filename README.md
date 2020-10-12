@@ -30,3 +30,6 @@ At the present time, we are working on different segments of the project, which 
 The design is at this time, 18th of May 2020, not certified by any official body for medical use. The design should not be used without proper validation and certification by local authorities.
 
 The design has been partly created with use of a SOLIDWORKS Education Edition. 
+
+## Getting started
+Read the '01-Getting-Started.md' (at [docs/EN](docs/EN)).
