@@ -17,7 +17,7 @@ Technical drawings of the PI Ventilator
 Experimental evaluation of the PI Ventilator
 
 **Manuals:**
-Contains the manuals of the device, at this moment this contains only the mechanical assembly manual
+Contains the manuals of the device, at this moment this contains the mechanical assembly manual and the user manual.
 
 ## Change Log
 ### Last update: 21-05-2020
