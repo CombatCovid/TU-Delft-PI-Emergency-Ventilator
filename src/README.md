@@ -30,6 +30,8 @@ Changes are sorted by date, it will state which change, whether it is a revision
 
 | Date of Change          | Change        | Revision note  |Folder  |
 | ----------|---------------| ---------------|-------------|
+|**_2020-11-14_**| Updated Manuals to V1.7 | V1.7 | [src/manuals](../src/manuals)
+|**_2020-11-14_**| Updated Step to V1.7 | V1.7 | [src/3dmodel](../src/3dmodel)
 |**_2020-07-10_**| Updated BOM to V1.5 | Updated BOM to newest version |[src/BOM](../src/BOM)
 |**_2020-07-10_**| Added V1.4 & V1.5 | Added PCB's and Mounting for them <br> Added extra checkvalve in bellow for less force on motor <br> Changed Display and buttons|[src/3dmodel](../src/3dmodel)
 |**_2020-05-30_**|Added User Manual V1.3|New|[src/manuals](../src/manuals)
